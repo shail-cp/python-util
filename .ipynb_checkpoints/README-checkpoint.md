@@ -1,2 +1,0 @@
-# python-util
-Python utilities
